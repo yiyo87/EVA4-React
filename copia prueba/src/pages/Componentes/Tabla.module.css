@@ -1,0 +1,26 @@
+.container {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.tableWrapper {
+    padding: 20px;
+    background: #f7f7f7;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 900px;
+}
+
+.tableWrapper h2 {
+    margin-bottom: 20px;
+}
+
+.table {
+    margin-top: 20px;
+}
+
